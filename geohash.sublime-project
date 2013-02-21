@@ -1,0 +1,11 @@
+{	
+	"env":{
+		"GOPATH":"/Xmx/workspace/google/geohash"
+		},
+	"folders":
+	[
+		{
+			"path": "~/workspace/google/geohash"
+		}
+	]
+}
