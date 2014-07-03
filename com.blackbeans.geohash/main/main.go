@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	// "fmt"
 	"latlng2pixel/com.blackbeans.geohash/core"
 	"net/http"
 	"strconv"
@@ -51,7 +51,7 @@ func main() {
 
 		defer req.Body.Close()
 
-		fmt.Println(val)
+		// fmt.Println(val)
 
 	})
 
